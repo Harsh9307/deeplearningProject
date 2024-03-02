@@ -163,3 +163,7 @@ cython_debug/
 #.idea/
 
 artifacts/*
+preprocessed_dataset/*
+dataset/*
+dataset.zip/*
+research/dataset_final/*
